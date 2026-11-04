@@ -1,0 +1,21 @@
+PAYİDAR OTOMOTİV — V7 / KURULUM
+
+Küçük güncelleme paketi (V6 üzerine):
+1. ZIP'i bilgisayarında aç.
+2. index.html, style-payidar-v7.css, script-payidar-v7.js ve payidar-mobil.mp4 dosyalarını doğrudan htdocs klasörüne yükle.
+3. index.html dosyasını eskisiyle değiştir.
+4. htdocs içindeki eskiden kalma 'Payidar_web_arka_plan_yazisiz.mp4' videosu ve hero-poster.jpg dosyası yerinde kalmalı.
+5. Ctrl + Shift + R ile sayfayı yenile.
+
+Tam site paketi: ZIP'i aç ve içindeki tüm dosyaları htdocs içine yükle.
+
+YENİ ÖZELLİKLER
+- 12 otomobil markasının büyük, renkli amblemleri index.html içine gömülü; logo klasörü kurman gerekmiyor.
+- Marka altında sadece logo ve marka adı var; 'Neden bu araçlar?' açıklaması eklendi.
+- Selim Usta 0546 952 37 14; Serkan Usta 0552 841 18 42.
+- Asistanın son adımında Selim, Serkan ya da Fark etmez seçilir. 'Fark etmez' seçilince iki numaradan birine %50-%50 olasılıkla yönlenir, kesin eşit sayıda mesaj garantisi vermez.
+- Sitedeki WhatsApp ikonlarından yapılan direkt yönlendirmeler de rastgele dağıtılır.
+- Mobil video aynı animasyonun daha hafif H.264 sürümüdür. Otomatik oynatma engellenirse manuel oynat düğmesi çıkar. Bazı mobil cihaz ve tarayıcı ayarlarında otomatik oynatma garanti değildir.
+- Form yanıtları veritabanına kaydedilmez. Müşteri WhatsApp üzerinden mesajın gönderimini onaylar.
+
+Web sitesi geliştirici notu: Ahmet Mustafa Kıranel.
